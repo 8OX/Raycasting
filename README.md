@@ -1,4 +1,4 @@
-# Raycasting in Javascript and C
+# Raycasting in Javascript
 
 <br>
 
