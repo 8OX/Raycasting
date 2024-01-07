@@ -4,7 +4,7 @@
 
 # About
 
-This is a raycasting program that has two verions, a p5.js-based raycaster in written Javascript (runs in the browser) and a SDL-based raycaster written in C
+This is a raycasting program that has two verions, a p5.js-based raycaster in written Javascript (runs in the browser)
 
 The engineering behind this is highly influenced by the original Wolfenstein 3D raycaster; using angles and trigonometric functions instead of vectors.
 
